@@ -47,9 +47,9 @@
 
 ### Key Features <a name="key-features"></a>
 
+- **[Responsive]**
 - **[No Linter error]**
 - **[Follows best practices]**
-- **[Responsive]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
