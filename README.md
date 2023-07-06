@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Hello Microverse</b></h3>
+  <h3><b>Hello World</b></h3>
 
 </div>
 
@@ -31,11 +31,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Hello World] <a name="about-project"></a>
 
-> It's a simple project containing HTML and CSS files. The goal of this project is to master all the tools and best practices.
-
-**[your_project__name]** is a...
+**[Hello World]** is a simple project containing HTML and CSS files. The goal of this project is to master all the tools and best practices.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,7 +60,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-1. Go to this URL link: https://github.com/hamzaw9/hello-microverse
+1. Go to this URL link: https://github.com/hamzaw9/hello-world
 2. clone the repo and start working on it.
 
 ### Prerequisites
@@ -99,7 +97,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/hamzaw9/hello-microverse
+  git clone https://github.com/hamzaw9/hello-world
 ```
 
 ### Install
@@ -131,7 +129,7 @@ StyleLint run:
 To run the project, execute the following command:
 
 ```sh
-  cd hello-microverse
+  cd hello-world
   index.html
 ```
 
@@ -170,7 +168,7 @@ Your working browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]([../../issues/](https://github.com/hamzaw9/hello-microverse/issues)).
+Feel free to check the [issues page]([../../issues/](https://github.com/hamzaw9/hello-world/issues)).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
