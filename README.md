@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Hello World</b></h3>
 
@@ -49,8 +46,6 @@
 </details>
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **[No Linter error]**
 - **[Follows best practices]**
