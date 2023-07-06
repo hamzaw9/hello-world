@@ -31,9 +31,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> It's a simple project containing HTML and CSS files. The goal of this project is to master all the tools and best practices.
 
 **[your_project__name]** is a...
 
@@ -41,132 +41,116 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Html and CSS are used for this project.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">Html and CSS</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[No Linter error]**
+- **[Follows best practices]**
+- **[Responsive]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+1. Go to this URL link: https://github.com/hamzaw9/hello-microverse
+2. clone the repo and start working on it.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
+Google Chrome or other browser
 
 ```sh
- gem install rails
+  https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjw9J2iBhBPEiwAErwpeSDcMFWiIQWj2u5GY6owZ7OaOHw7dYYCHW7uTR4kvYosNJYd4wt4VxoCiywQAvD_BwE&gclsrc=aw.ds
 ```
- -->
+
+Github Account:
+
+```sh
+  https://github.com/
+```
+
+Npm installed:
+
+```sh
+  https://nodejs.org/en/download
+```
+
+Git installed:
+
+```sh
+  https://git-scm.com/downloads/
+```
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/hamzaw9/hello-microverse
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+Linters:
+
+Lighthouse run:
 
 ```sh
-  cd my-project
-  gem install
+  npm install -g @lhci/cli@0.7.x
 ```
---->
+
+Webhint run
+
+```sh
+ npm install --save-dev hint@7.x
+```
+
+StyleLint run:
+
+```sh
+ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+```
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  cd hello-microverse
+  index.html
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
 Example command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  npx stylelint "**/*.{css,scss}"
+  npx hint.
 ```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+Your working browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,51 +158,26 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Hamza Baig**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@hamzabaig](https://github.com/hamzaw9)
+- Twitter: [@hamzabaig](https://twitter.com/hamzabaig059)
+- LinkedIn: [@hamzabaig](https://www.linkedin.com/in/hamza-baig-852058269/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page]([../../issues/](https://github.com/hamzaw9/hello-microverse/issues)).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you find this project useful and informative, please consider giving it a star. Your support and feedback are greatly appreciated and will motivate me to continue creating high-quality projects in the future.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,25 +185,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+I would like to thank **Microverse**.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
